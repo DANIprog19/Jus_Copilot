@@ -8,7 +8,7 @@ Abaixo seguem as descrições de como foi criado o projeto de Agente IA no Copil
 
 > O Agente que criei teve o seu ponto de partida em branco dentro de um novo ambiente. Foram realizados passos como nomeação de nome, descrição, além de instruções que direcionam o nosso agente no que ele deve fazer ao ser chamado.
 
-![Imagem 1](Imagens/Image1.png)
+![Imagem 1](Imagens/image1.png)
 
 ### Resumo
 
@@ -34,7 +34,7 @@ Abaixo seguem as descrições de como foi criado o projeto de Agente IA no Copil
 
 > Para realizar a personalização da mensagem de erro, acessei o tópico do meu agente na aba "System" onde será encontrado a configuração de "Fallback" ou "Conversation boosting", escolhendo uma das duas é possivel criar uma mensagem de erro com algumas informações de contato para o usuário solicitar um suporte em relação ao seu problema.
 
-![Imagem 3](Imagens/Image5.png)
+![Imagem 3](Imagens/image5.png)
 
 ### Resumo:
 
